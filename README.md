@@ -7,6 +7,7 @@
 
 
 
+
 ### 🏗 Projects
 |                        Name                       | Repository                 		      | Tech Stacks      			  | Desription            
 | :-----------------------------------------------: | :---------------------------------------------: | ------------------------------------------| ---------------------------------
@@ -14,7 +15,8 @@
 
 
 
-### 🏗 Glossary
+
+### 🔈 Glossary
 
 Untuk menstandarkan penulisan skill / tech stack agar konsisten dan memudahkan filter
 
