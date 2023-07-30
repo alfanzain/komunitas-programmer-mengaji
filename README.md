@@ -1,108 +1,40 @@
 # Komunitas Programmer Mengaji
 
-<div>
-	<h3>Developers</h3>
-	<table align="left">
-		<tr>
-			<th align="center">
-				Name
-			</th>
-			<th align="center">
-				Socials (Github, Linkedin, etc)
-			</th>
-			<th align="center">
-				Skill
-			</th>
-			<th align="center">
-				Note
-			</th>
-		</tr>
-		<tr>
-			<td align="center">
-				<p></p>
-			</td>
-			<td align="center">
-				<p></p>
-			</td>
-			<td align="center">
-				<p></p>
-			</td>
-			<td align="center">
-				<p></p>
-			</td>
-		</tr>
-	</table>
-</div>
+### 👩‍💻 Developers
+|                        Name                       | Socials (Github, Linkedin, etc)                 | Skill                                                                                |
+| :-----------------------------------------------: | :---------------------------------------------: | ------------------------------------------------------------------------------------ |
+| Alfan Zain Kusuma Putra                           | [Github](https://github.com/alfanzain) <br> [Linkedin]([https://github.com/alfanzain](https://www.linkedin.com/in/alfanzain/)) | Laravel, Javascript, Typescript, Node.js, Express.js, Golang, Vue.js, React.js, Angular, Redux, MySQL, PostgreSQL, MongoDB  |
 
-<br />
-<br />
-<br />
 
-<div>
-	<h3>Projects</h3>
-	<table align="left">
-		<tr>
-			<th align="center">
-				Name
-			</th>
-			<th align="center">
-				Repo
-			</th>
-			<th align="center">
-				Tech Stacks
-			</th>
-			<th align="center">
-				Description
-			</th>
-		</tr>
-		<tr>
-			<td align="center">
-				<p></p>
-			</td>
-			<td align="center">
-				<p></p>
-			</td>
-			<td align="center">
-				<p></p>
-			</td>
-			<td align="center">
-				<p></p>
-			</td>
-		</tr>
-	</table>
-</div>
 
-<br />
-<br />
-<br />
+### 🏗 Projects
+|                        Name                       | Repository                 		      | Tech Stacks      			  | Desription            
+| :-----------------------------------------------: | :---------------------------------------------: | ------------------------------------------| ---------------------------------
+| [Contoh] Project Al-Qur'an                        | [Github](https://github.com/alfanzain)          | Laravel, React.js  			  | Open source dari Programmer Mengaji untuk Indonesia
 
-<div>
-	<h3>List Skill Tag</h3>
-	<p>Untuk menstandardkan penulisan skill / tech stack agar konsisten dan memudahkan filter</p>
-	<table align="left">
-		<tr>
-			<th align="center">
-				Name
-			</th>
-			<th align="center">
-				Tag
-			</th>
-		</tr>
-		<tr>
-			<td align="center">
-				ReactJS
-			</td>
-			<td align="center">
-				ReactJS
-			</td>
-		</tr>
-		<tr>
-			<td align="center">
-				Go
-			</td>
-			<td align="center">
-				Golang
-			</td>
-		</tr>
-	</table>
-<div>
+
+
+### 🏗 Glossary
+
+Untuk menstandarkan penulisan skill / tech stack agar konsisten dan memudahkan filter
+
+
+|             Name             | Kata yang digunakan                 		      
+| :--------------------------: | :---------------------------------------------: |
+| Go                           | Golang				                 |
+| Laravel                      | Laravel				         |
+| Javascript                   | Javascript			                 |
+| Typescript                   | Typescript			                 |
+| Node.js                      | Node.js			                 |
+| Express.js                   | Express.js			                 |
+| Vue.js                       | Vue.js 			                 |
+| React                        | React.js			                 |
+| Angular 3                    | Angular			                 |
+| Angular 2                    | Angular.js			                 |
+| Redux                        | Redux			                         |
+| MySQL                        | MySQL			                         |
+| PostgreSQL                   | PostgreSQL			                 |
+| MongoDB                      | MongoDB			                 |
+| Kubernetes                   | Kubernetes			                 |
+| Docker                       | Docker			                         |
+| Tambahkan sendiri by PR      | 			                         |
