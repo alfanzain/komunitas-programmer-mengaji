@@ -3,15 +3,15 @@
 ### 👩‍💻 Developers
 |                        Name                       | Socials (Github, Linkedin, etc)                 | Skill                                                                                |
 | :-----------------------------------------------: | :---------------------------------------------: | ------------------------------------------------------------------------------------ |
-| Alfan Zain Kusuma Putra                           | [Github](https://github.com/alfanzain) <br> [Linkedin]([https://github.com/alfanzain](https://www.linkedin.com/in/alfanzain/)) | Laravel, Javascript, Typescript, Node.js, Express.js, Golang, Vue.js, React.js, Angular, Redux, MySQL, PostgreSQL, MongoDB  |
+| Alfan Zain Kusuma Putra                           | [https://github.com/alfanzain](https://github.com/alfanzain) <br> [https://www.linkedin.com/in/alfanzain](https://www.linkedin.com/in/alfanzain/) | Laravel, Javascript, Typescript, Node.js, Express.js, Golang, Vue.js, React.js, Angular, Redux, MySQL, PostgreSQL, MongoDB  |
 
 
 
 
 ### 🏗 Projects
-|                        Name                       | Repository                 		      | Tech Stacks      			  | Desription            
-| :-----------------------------------------------: | :---------------------------------------------: | ------------------------------------------| ---------------------------------
-| [Contoh] Project Al-Qur'an                        | [Github](https://github.com/alfanzain)          | Laravel, React.js  			  | Open source dari Programmer Mengaji untuk Indonesia
+|                        Name                       | Author | Repository                 		                  | Tech Stacks      			                    | Desription            
+| :-----------------------------------------------: | :----: | :---------------------------------------------: | ------------------------------------------| ---------------------------------
+| Dua & Dhikr                                       | fitrahive | [https://github.com/fitrahive/dua-dhikr](https://github.com/fitrahive/dua-dhikr)| Laravel, React.js  			                  | Open source dari Programmer Mengaji untuk Indonesia
 
 
 
